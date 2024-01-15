@@ -22,7 +22,7 @@ body{
     padding: 15px;
 }
 
-a:hover{
+button:hover{
     background-color: darkgray;
 }
 
@@ -35,7 +35,7 @@ a{
 
 button{
     text-align: left;
-    min-width: 150px;
+    min-width: 180px;
     border: thin solid black;
     background-color: lightgray;
     padding: 12px;
